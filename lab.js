@@ -319,6 +319,8 @@ class Vehicle {
 //Code Here
 let myFirstVehicle = new Vehicle(5, 'blue', 35000)
 
+myFirstVehicle.move(500)
+
 /* 
   Now we'll create a class that's based off of the vehicle class. 
 
